@@ -8,8 +8,14 @@ This program calculates the total cost of movie tickets. It then calculates the 
 3. Calculate the total ticket cost.
 ## Example Output
 movieName: Obsession
+
 pricePerTicket: 14.99
+
 numberOfTickets: 3
+
 Total Cost: $44.97
 ## Author
 Tatiana Ballesteros
+
+
+#### Edit added by [zeromoore]
