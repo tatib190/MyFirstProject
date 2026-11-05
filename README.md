@@ -19,3 +19,6 @@ Tatiana Ballesteros
 
 
 #### Edit added by [zeromoore]
+
+## Collaborated Awknowledgement
+This project was reviewed and edited by Zero Moore on GitHub. 
